@@ -1,0 +1,7 @@
+JuliaCon 2017 Fernándo Pérez
+Computation and data in a poliglot world
+Este señor quería crear algo para transicionar de IDL a algo con un lenguaje más universal.
+Ipython le sirvió como esta transición, siendo una herramienta basada en la terminal, donde se ejecuta tanto código como narrativa que almacena todos los resultados en un sólo lugar. Esta herramineta podpia servir para crear documentos, matemáticas y computación.
+El notebook de Ipython era una form de recopilar los lenguajes de Python, R, Julia, etc. Según Fernando Perez, el enemigo debe ser la "closed- sourse science" y el objetivo; crear platformas que promuevan y permitan la "open science".
+Más adelante, se le cambió el nombre de Ipython a Jupyter ya que estaba basado en Julia (Ju), Python (py), y R. 
+
